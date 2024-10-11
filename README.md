@@ -68,7 +68,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #16  |                              [Nim Game](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-03/Day-16_Nim-Game)                              |   :white_check_mark: |
 | Day #17  |                          [Prison Break](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-03/Day-17_Prison-Break)                          |   :white_check_mark: |
 | Day #18  |                          [Unique Paths](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-03/Day-18_Unique-Paths)                          |   :white_check_mark: |
-| Day #19  |                         [URL Shortener](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-03/Day-19_URL-Shortener)                         | :white_large_square: |
+| Day #19  |                         [URL Shortener](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-03/Day-19_URL-Shortener)                         |   :white_check_mark: |
 | Day #20  |                         [API Challenge](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-03/Day-20_API-Challenge)                         | :white_large_square: |
 | Day #21  |                 [Random Maze Generator](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-03/Day-21_Random-Maze-Generator)                 | :white_large_square: |
 | Day #22  |               [Marcio Mellos Challenge](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-04/Day-22_Marcio-Mellos-Challenge)               | :white_large_square: |
