@@ -74,7 +74,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #22  |               [Marcio Mellos Challenge](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-04/Day-22_Marcio-Mellos-Challenge)               |   :white_check_mark: |
 | Day #23  |               [The Dining Philosophers](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-04/Day-23_The-Dining_Philosophers)               |   :white_check_mark: |
 | Day #24  |                  [The Josephus Problem](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-04/Day-24_The-Josephus-Problem)                  |   :white_check_mark: |
-| Day #25  |                          [Coin Trouble](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-04/Day-25_Coin-Trouble)                          | :white_large_square: |
+| Day #25  |                          [Coin Trouble](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-04/Day-25_Coin-Trouble)                          |   :white_check_mark: |
 | Day #26  |                        [Briefcase Lock](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-04/Day-26_Briefcase-Lock)                        | :white_large_square: |
 | Day #27  |                        [Task Scheduler](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-04/Day-27_Task-Scheduler)                        | :white_large_square: |
 | Day #28  |                           [Word Search](https://github.com/LiveGray/100-Days-Of-Rust/tree/main/Week-04/Day-28_Word-Search)                           | :white_large_square: |
