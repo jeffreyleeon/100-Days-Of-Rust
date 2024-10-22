@@ -78,7 +78,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #26  |                        [Briefcase Lock](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-04/Day-26_Briefcase-Lock)                        |   :white_check_mark: |
 | Day #27  |                        [Task Scheduler](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-04/Day-27_Task-Scheduler)                        |   :white_check_mark: |
 | Day #28  |                           [Word Search](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-04/Day-28_Word-Search)                           |   :white_check_mark: |
-| Day #29  |                 [Traffic Light Checker](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-05/Day-29_Traffic-Light-Checker)                 | :white_large_square: |
+| Day #29  |                 [Traffic Light Checker](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-05/Day-29_Traffic-Light-Checker)                 |   :white_check_mark: |
 | Day #30  |                     [The Maximum Value](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-05/Day-30_The-Maximum-Value)                     | :white_large_square: |
 | Day #31  |                     [The Time In Words](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-05/Day-31_The-Time-In-Words)                     | :white_large_square: |
 | Day #32  |              [Climbing The Leaderboard](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-05/Day-32_Climbing-The-Leaderboard)              | :white_large_square: |
