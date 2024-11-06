@@ -88,7 +88,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #36  |                           [LCD Display](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-36_LCD-Display)                           |   :white_check_mark: |
 | Day #37  |                  [Breaking The Records](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-37_Breaking-The-Records)                  |   :white_check_mark: |
 | Day #38  |                      [Electronics Shop](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-38_Electronics-Shop)                      |   :white_check_mark: |
-| Day #39  |                        [Halloween Sale](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-39_Halloween-Sale)                        | :white_large_square: |
+| Day #39  |                        [Halloween Sale](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-39_Halloween-Sale)                        |   :white_check_mark: |
 | Day #40  |                          [Larrys Array](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-40_Larrys-Array)                          | :white_large_square: |
 | Day #41  |                        [Sales By Match](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-41_Sales-By-Match)                        | :white_large_square: |
 | Day #42  |                          [Drawing Book](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-42_Drawing-Book)                          | :white_large_square: |
