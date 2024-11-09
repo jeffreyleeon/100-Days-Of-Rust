@@ -91,7 +91,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #39  |                        [Halloween Sale](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-39_Halloween-Sale)                        |   :white_check_mark: |
 | Day #40  |                          [Larrys Array](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-40_Larrys-Array)                          |   :white_check_mark: |
 | Day #41  |                        [Sales By Match](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-41_Sales-By-Match)                        |   :white_check_mark: |
-| Day #42  |                          [Drawing Book](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-42_Drawing-Book)                          | :white_large_square: |
+| Day #42  |                          [Drawing Book](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-06/Day-42_Drawing-Book)                          |   :white_check_mark: |
 | Day #43  |                    [Area Of A Triangle](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-07/Day-43_Area-Of-A-Triangle)                    | :white_large_square: |
 | Day #44  |            [Maximum Edge Of A Triangle](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-07/Day-44_Maximum-Edge-Of-A-Triangle)            | :white_large_square: |
 | Day #45  | [Subtract The Swapped Bits...](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-07/Day-45_Subtract-The-Swapped-Bits-Without-Temp-Storage) | :white_large_square: |
