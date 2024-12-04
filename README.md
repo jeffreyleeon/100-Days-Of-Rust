@@ -108,7 +108,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #56  |                        [Convert To Hex](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-08/Day-56_Convert-To-Hex)                        |   :white_check_mark: |
 | Day #57  |                 [Magic Sigil Generator](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-09/Day-57_Magic-Sigil-Generator)                 |   :white_check_mark: |
 | Day #58  |                  [Create A Dice Roller](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-09/Day-58_Create-A-Dice-Roller)                  |   :white_check_mark: |
-| Day #59  |                    [Perfectly Balanced](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-09/Day-59_Perfectly-Balanced)                    | :white_large_square: |
+| Day #59  |                    [Perfectly Balanced](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-09/Day-59_Perfectly-Balanced)                    |   :white_check_mark: |
 | Day #60  |                     [A Game Of Threes](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-09/Day-60_A-Game-Of-Thrones)                      | :white_large_square: |
 | Day #61  |                   [Write A Web Crawler](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-09/Day-61_Write-A-Web-Crawler)                   | :white_large_square: |
 | Day #62  |                           [Funny Plant](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-09/Day-62_Funny-Plant)                           | :white_large_square: |
