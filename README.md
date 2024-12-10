@@ -113,7 +113,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #61  |                   [Write A Web Crawler](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-09/Day-61_Write-A-Web-Crawler)                   |   :white_check_mark: |
 | Day #62  |                           [Funny Plant](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-09/Day-62_Funny-Plant)                           |   :white_check_mark: |
 | Day #63  |                    [The Rabbit Problem](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-09/Day-63_The-Rabbit-Problem)                    |   :white_check_mark: |
-| Day #64  |             [First Recurring Character](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-64_First-Recurring-Character)             | :white_large_square: |
+| Day #64  |             [First Recurring Character](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-64_First-Recurring-Character)             |   :white_check_mark: |
 | Day #65  |                        [ISBN Validator](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-65_ISBN-Validator)                        | :white_large_square: |
 | Day #66  |                        [ISBN Generator](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-66_ISBN-Generator)                        | :white_large_square: |
 | Day #67  |                            [Color Maze](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-67_Color-Maze)                            | :white_large_square: |
