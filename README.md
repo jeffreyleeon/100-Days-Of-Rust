@@ -116,7 +116,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #64  |             [First Recurring Character](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-64_First-Recurring-Character)             |   :white_check_mark: |
 | Day #65  |                        [ISBN Validator](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-65_ISBN-Validator)                        |   :white_check_mark: |
 | Day #66  |                        [ISBN Generator](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-66_ISBN-Generator)                        |   :white_check_mark: |
-| Day #67  |                            [Color Maze](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-67_Color-Maze)                            | :white_large_square: |
+| Day #67  |                            [Color Maze](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-67_Color-Maze)                            |   :white_check_mark: |
 | Day #68  |              [Clarence The Slow Typist](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-68_Clarence-The-Slow-Typist)              | :white_large_square: |
 | Day #69  |                    [Garage Door Opener](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-69-Garage-Door-Opener)                    | :white_large_square: |
 | Day #70  |                       [Broken Keyboard](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-70_Broken-Keyboard)                       | :white_large_square: |
