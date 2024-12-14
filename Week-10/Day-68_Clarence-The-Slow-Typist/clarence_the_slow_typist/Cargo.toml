@@ -1,0 +1,6 @@
+[package]
+name = "clarence_the_slow_typist"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
