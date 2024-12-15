@@ -118,7 +118,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #66  |                        [ISBN Generator](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-66_ISBN-Generator)                        |   :white_check_mark: |
 | Day #67  |                            [Color Maze](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-67_Color-Maze)                            |   :white_check_mark: |
 | Day #68  |              [Clarence The Slow Typist](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-68_Clarence-The-Slow-Typist)              |   :white_check_mark: |
-| Day #69  |                    [Garage Door Opener](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-69-Garage-Door-Opener)                    | :white_large_square: |
+| Day #69  |                    [Garage Door Opener](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-69-Garage-Door-Opener)                    |   :white_check_mark: |
 | Day #70  |                       [Broken Keyboard](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-70_Broken-Keyboard)                       | :white_large_square: |
 | Day #71  |        [How Long Has The Light Been On](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-71_How-Long-Has-The-Light-Been-On)        | :white_large_square: |
 | Day #72  |                   [L33tSpeak Convertor](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-72_L33tSpeak-Convertor)                   | :white_large_square: |
