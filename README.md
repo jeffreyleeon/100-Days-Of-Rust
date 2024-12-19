@@ -121,7 +121,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #69  |                    [Garage Door Opener](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-69-Garage-Door-Opener)                    |   :white_check_mark: |
 | Day #70  |                       [Broken Keyboard](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-70_Broken-Keyboard)                       |   :white_check_mark: |
 | Day #71  |        [How Long Has The Light Been On](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-71_How-Long-Has-The-Light-Been-On)        |   :white_check_mark: |
-| Day #72  |                   [L33tSpeak Convertor](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-72_L33tSpeak-Convertor)                   | :white_large_square: |
+| Day #72  |                   [L33tSpeak Convertor](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-72_L33tSpeak-Convertor)                   |   :white_check_mark: |
 | Day #73  |                  [L33tSpeak Translator](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-73_L337Speak-Generator)                   | :white_large_square: |
 | Day #74  |                           [CATTLEMETER](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-74_CATTLEMETER)                           | :white_large_square: |
 | Day #75  |                           [Minesweeper](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-75_Minesweeper)                           | :white_large_square: |
