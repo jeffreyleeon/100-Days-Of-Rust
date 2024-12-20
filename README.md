@@ -122,7 +122,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #70  |                       [Broken Keyboard](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-10/Day-70_Broken-Keyboard)                       |   :white_check_mark: |
 | Day #71  |        [How Long Has The Light Been On](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-71_How-Long-Has-The-Light-Been-On)        |   :white_check_mark: |
 | Day #72  |                   [L33tSpeak Convertor](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-72_L33tSpeak-Convertor)                   |   :white_check_mark: |
-| Day #73  |                  [L33tSpeak Translator](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-73_L337Speak-Generator)                   | :white_large_square: |
+| Day #73  |                  [L33tSpeak Translator](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-73_L337Speak-Generator)                   |   :white_check_mark: |
 | Day #74  |                           [CATTLEMETER](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-74_CATTLEMETER)                           | :white_large_square: |
 | Day #75  |                           [Minesweeper](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-75_Minesweeper)                           | :white_large_square: |
 | Day #76  |                        [The Cake Thief](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-76_The-Cake-Thief)                        | :white_large_square: |
