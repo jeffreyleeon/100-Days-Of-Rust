@@ -127,7 +127,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #75  |                           [Minesweeper](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-75_Minesweeper)                           |   :white_check_mark: |
 | Day #76  |                        [The Cake Thief](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-76_The-Cake-Thief)                        |   :white_check_mark: |
 | Day #77  |                    [Bot Saves Princess](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-11/Day-77_Bot-Saves-Princess)                    |   :white_check_mark: |
-| Day #78  |              [A Number Without Numbers](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-12/Day-78_A-Number-Without-Numbers)              | :white_large_square: |
+| Day #78  |              [A Number Without Numbers](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-12/Day-78_A-Number-Without-Numbers)              |   :white_check_mark: |
 | Day #79  |                          [Analog Clock](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-12/Day-79_Analog-Clock)                          | :white_large_square: |
 | Day #80  |     [Make It Look Like You Are Working](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-12/Day-80_Make-It-Look-Like-You-Are-Working)     | :white_large_square: |
 | Day #81  |                       [Draw The G Logo](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-12/Day-81_Draw-The-G-Logo)                       | :white_large_square: |
