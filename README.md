@@ -133,7 +133,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #81  |                       [Draw The G Logo](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-12/Day-81_Draw-The-G-Logo)                       |   :white_check_mark: |
 | Day #82  |                          [Tidy Numbers](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-12/Day-82_Tidy-Numbers)                          |   :white_check_mark: |
 | Day #83  |                       [Bathroom Stalls](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-12/Day-83_Bathroom-Stalls)                       |   :white_check_mark: |
-| Day #84  |                             [Vestigium](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-12/Day-84-Vestigium)                             | :white_large_square: |
+| Day #84  |                             [Vestigium](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-12/Day-84-Vestigium)                             |   :white_check_mark: |
 | Day #85  |                [TCP IP Client Server](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-85_TCP-IP-Client-And-Server)                | :white_large_square: |
 | Day #86  |                    [Way Too Long Words](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-86_Way-Too-Long-Words)                    | :white_large_square: |
 | Day #87  |                                  [Hulk](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-87_Hulk)                                  | :white_large_square: |
