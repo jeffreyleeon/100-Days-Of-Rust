@@ -136,7 +136,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #84  |                             [Vestigium](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-12/Day-84-Vestigium)                             |   :white_check_mark: |
 | Day #85  |                [TCP IP Client Server](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-85_TCP-IP-Client-And-Server)                |   :white_check_mark: |
 | Day #86  |                    [Way Too Long Words](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-86_Way-Too-Long-Words)                    |   :white_check_mark: |
-| Day #87  |                                  [Hulk](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-87_Hulk)                                  | :white_large_square: |
+| Day #87  |                                  [Hulk](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-87_Hulk)                                  |   :white_check_mark: |
 | Day #88  |                       [Hit The Lottery](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-88_Hit-The-Lottery)                       | :white_large_square: |
 | Day #89  |           [Minutes Before The New Year](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-89_Minutes_Before_The_New_Year)           | :white_large_square: |
 | Day #90  |                         [Radio Station](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-90_Radio-Station)                         | :white_large_square: |
