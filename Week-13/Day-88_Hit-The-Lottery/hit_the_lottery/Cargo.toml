@@ -1,0 +1,6 @@
+[package]
+name = "hit_the_lottery"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
