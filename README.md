@@ -141,7 +141,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #89  |           [Minutes Before The New Year](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-89_Minutes_Before_The_New_Year)           |   :white_check_mark: |
 | Day #90  |                         [Radio Station](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-90_Radio-Station)                         |   :white_check_mark: |
 | Day #91  |                        [Cyberpunk 2078](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-13/Day-91_Cyberpunk-2078)                        |   :white_check_mark: |
-| Day #92  |                     [New Year Candles](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-14/Day-92_New-Years-Candles)                      | :white_large_square: |
+| Day #92  |                     [New Year Candles](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-14/Day-92_New-Years-Candles)                      |   :white_check_mark: |
 | Day #93  |                   [Dreamoon And Stairs](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-14/Day-93_Dreamoon-And-Stairs)                   | :white_large_square: |
 | Day #94  |              [Superhero Transformation](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-14/Day-94_Superhero-Transformation)              | :white_large_square: |
 | Day #95  |                            [Free Cash](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-14/Day-95_Free-Crash)                             | :white_large_square: |
