@@ -145,7 +145,7 @@ We encourage you to share your progress and ask questions in the Discussions sec
 | Day #93  |                   [Dreamoon And Stairs](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-14/Day-93_Dreamoon-And-Stairs)                   |   :white_check_mark: |
 | Day #94  |              [Superhero Transformation](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-14/Day-94_Superhero-Transformation)              |   :white_check_mark: |
 | Day #95  |                            [Free Cash](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-14/Day-95_Free-Crash)                             |   :white_check_mark: |
-| Day #96  |                   [Beautiful Paintings](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-14/Day-96_Beautiful-Paintings)                   | :white_large_square: |
+| Day #96  |                   [Beautiful Paintings](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-14/Day-96_Beautiful-Paintings)                   |   :white_check_mark: |
 | Day #97  |                              [Elephant](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-14/Day-97_Elephant)                              | :white_large_square: |
 | Day #98  |                   [Geography Of Brazil](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-14/Day-98_Geography-Of-Brazil)                   | :white_large_square: |
 | Day #99  |                    [How Is The Weather](https://github.com/jeffreyleeon/100-Days-Of-Rust/tree/main/Week-15/Day-99_How-Is-The-Weather)                    | :white_large_square: |
